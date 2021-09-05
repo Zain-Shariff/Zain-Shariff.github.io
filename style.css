@@ -197,13 +197,13 @@ body {
   object-position: right;
 }
 
-/* ..........////Food category///........... */
+/* ..........////Course category///........... */
 
-#food {
+#course {
   padding: 5rem 0 10rem 0;
 }
 
-#food h2 {
+#course h2 {
   text-align: center;
   font-size: 2.5rem;
   font-weight: 400;
@@ -212,12 +212,12 @@ body {
   color: #555;
 }
 
-.food-container {
+.course-container {
   display: flex;
   justify-content: space-between;
 }
 
-.food-container img {
+.course-container img {
   display: block;
   width: 100%;
   margin: auto;
@@ -559,16 +559,16 @@ body {
 
   /* ......./ food /......... */
 
-  .food-container {
+  .course-container {
     flex-direction: column;
     align-items: stretch;
   }
 
-  .food-type:not(:last-child) {
+  .course-type:not(:last-child) {
     margin-bottom: 3rem;
   }
 
-  .food-type {
+  .course-type {
     box-shadow: 5px 5px 10px 0 #aaa;
   }
 
@@ -646,4 +646,7 @@ body {
 
 p{
   margin-bottom: 5px;
+}
+.subtitle{
+  color: #f5f5f7;
 }
