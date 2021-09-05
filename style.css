@@ -11,10 +11,12 @@
 .html {
   font-size: 62.5%;
 }
+html,body{
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
 
 body {
-  font-family: "Poppins", sans-serif;
-   overflow-x: hidden; /* Hide horizontal scrollbar */
+  font-family: "Poppins", sans-serif;   
   width: 100%;
 }
 
