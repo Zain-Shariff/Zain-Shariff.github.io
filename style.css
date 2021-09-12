@@ -7,9 +7,13 @@
   padding: 0;
   margin: 0;
 }
-
-.html,body {
+.html{
   font-size: 62.5%;
+}
+
+html,body {
+  
+  scroll-behavior: smooth;
   overflow-x: hidden;
   font-family: "Poppins", sans-serif;   
   width: 100%;
