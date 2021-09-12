@@ -8,17 +8,14 @@
   margin: 0;
 }
 
-.html {
+.html,body {
   font-size: 62.5%;
   overflow-x: hidden;
-  width:100%;
-}
-
-html,body {
-  font-family: "Poppins", sans-serif; 
-  overflow-x: hidden;  
+  font-family: "Poppins", sans-serif;   
   width: 100%;
 }
+
+
 
 /* ///////////..utility classes../////////// */
 
