@@ -261,6 +261,7 @@ html,body {
   content: "";
   display: block;
   position: absolute;
+  border-radius: 10px;
   top: 0;
   left: 0;
   width: 100%;
