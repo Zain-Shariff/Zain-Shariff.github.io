@@ -112,7 +112,7 @@ html,body {
 .showcase-area {
   height: 100vh;
   background: radial-gradient(ellipse at center,rgba(230, 231, 224, 0.2) 0%, rgba(21, 21, 22, 0.79) 100%),
-    url("https://firebasestorage.googleapis.com/v0/b/lbas-college-app.appspot.com/o/Glide%2Fentrance_web-min.jpg?alt=media&token=fec6f125-4b77-463c-a372-fc91d9bbf91b");
+    url("https://raw.githubusercontent.com/Zain-Shariff/Zain-Shariff.github.io/main/img/entrance_web.jpg");
   background-size: cover;
   mix-blend-mode: color-burn;
   background-position: center;
